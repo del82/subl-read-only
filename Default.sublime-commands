@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle read-only",
+        "command": "toggle_read_only"
+    },
+] 
