@@ -1,0 +1,5 @@
+[
+  { 
+    "keys": ["f13"], "command": "toggle_read_only" 
+  }
+]
